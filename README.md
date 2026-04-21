@@ -76,6 +76,6 @@ Sinta-se à vontade para me contatar para:
 
 ---
 
-## ⚡ Filosofia
+## ⚡ Pensamento
 
 > "A segurança é uma jornada, não um destino"
