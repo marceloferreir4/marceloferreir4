@@ -14,7 +14,7 @@
 ## 👨‍💻 Sobre Mim
 
 Estudante de **Cibersegurança** apaixonado por **Red Team**, **análise de malwares** e **exploração de vulnerabilidades**.
-Estou em uma jornada contínua de aprendizado para entender como sistemas são atacados e como defendê-los.
+Estou em uma jornada contínua de aprendizado para entender como sistemas são atacados e como defendê-los. abluble
 
 ---
 
